@@ -1,0 +1,12 @@
+2021-04-18T14:52:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\sell\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-04-18T14:55:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\sell\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-04-18T14:57:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\sell\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-04-18T15:00:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\sell\wp-includes\Requests\Transport\cURL.php on line 441
+
+2021-04-18T15:04:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\sell\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-04-18T15:09:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\sell\wp-includes\Requests\Transport\cURL.php on line 463
+
